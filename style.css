@@ -1,0 +1,62 @@
+html{
+    font-family: 'Quicksand', sans-serif;
+    background-color:  #FDEACA ;
+}
+
+h1{
+    font-size: 1.7rem;
+    text-align: center;
+    margin-top: 1.5rem;
+}
+h2{
+text-align: center;
+margin-bottom: 1rem;
+}
+
+.navbar{
+text-align: center;
+
+padding: 1rem;
+background-color: #D9A560;
+}
+
+.navbar a{
+margin: 0.5rem;
+text-decoration: none;
+color: black;
+}
+
+.Inicio{
+margin:2rem;
+}
+
+.importancia{
+margin:2rem;
+}
+
+.importancia li{
+margin-left: 3rem;
+margin-right: 3rem;
+}
+
+.enfoque{
+margin: 2rem;
+}
+
+.enfoque p{
+margin-left: 2rem;
+margin-right: 2rem;
+}
+
+footer{
+text-align: center;
+margin-bottom: 2rem;
+padding: 1rem;
+background-color: #D9A560;
+}
+
+footer a{
+margin: 0.5rem;
+text-decoration: none;
+color: black;
+}
